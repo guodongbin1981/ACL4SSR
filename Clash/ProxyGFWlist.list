@@ -6366,6 +6366,6 @@ DOMAIN-SUFFIX,ocnttv.com
 # VikACG
 DOMAIN-SUFFIX,vikacg.com
 DOMAIN-SUFFIX,picjs.xyz
-# Whatsapp
+# Webshare家宽代理
 IP-CIDR,23.236.250.0/24,no-resolve
 IP-CIDR,192.241.92.0/24,no-resolve
