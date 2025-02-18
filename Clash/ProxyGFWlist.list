@@ -6325,6 +6325,8 @@ DOMAIN-SUFFIX,terabox.com
 DOMAIN-SUFFIX,teraboxcdn.com
 
 # Whatsapp
+IP-CIDR,23.236.250.0/24,no-resolve
+IP-CIDR,192.241.92.0/24,no-resolve
 IP-CIDR,18.194.0.0/15,no-resolve
 IP-CIDR,34.224.0.0/12,no-resolve
 IP-CIDR,54.242.0.0/15,no-resolve
